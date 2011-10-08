@@ -1,0 +1,6 @@
+[submodule "Lines"]
+	path = Lines
+	url = git@github.com:TyOverby/Lines.git
+[submodule "Ants"]
+	path = Ants
+	url = git@github.com:TyOverby/Ants.git
